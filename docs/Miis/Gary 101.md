@@ -1,3 +1,4 @@
+# Gary 101
 #miikid #male 
 - father_is [[Gary 015]]
 - mother_is [[Gary 008]]

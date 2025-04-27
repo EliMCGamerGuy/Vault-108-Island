@@ -1,3 +1,4 @@
+# Sindy
 #female #miikid #hidden 
 - father_is Paper Mario 
 - mother_is Toriel 

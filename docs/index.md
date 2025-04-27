@@ -1,107 +1,21 @@
-# index
-#hidden
-# Index of Gary
-- [[Gary Prime]]
-- [[Gary 002]]
-- [[Gary 003]]
-- [[Gary 004]]
-- [[Gary 005]]
-- [[Gary 006]]
-- [[Gary 007]]
-- [[Gary 008]]
-- [[Gary 009]]
-- [[Gary 010]]
-- [[Gary 011]]
-- [[Gary 012]]
-- [[Gary 013]]
-- [[Gary 014]]
-- [[Gary 015]]
-- [[Gary 016]]
-- [[Gary 017]]
-- [[Gary 018]]
-- [[Gary 019]]
-- [[Gary 020]]
-- [[Gary 021]]
-- [[Gary 022]]
-- [[Gary 023]]
-- [[Gary 024]]
-- [[Gary 025]]
-- [[Gary 026]]
-- [[Gary 027]]
-- [[Gary 028]]
-- [[Gary 029]]
-- [[Gary 030]]
-- [[Gary 031]]
-- [[Gary 032]]
-- [[Gary 033]]
-- [[Gary 034]]
-- [[Gary 035]]
-- [[Gary 036]]
-- [[Gary 037]]
-- [[Gary 038]]
-- [[Gary 039]]
-- [[Gary 040]]
-- [[Gary 041]]
-- [[Gary 042]]
-- [[Gary 043]]
-- [[Gary 044]]
-- [[Gary 045]]
-- [[Gary 046]]
-- [[Gary 047]]
-- [[Gary 048]]
-- [[Gary 049]]
-- [[Gary 050]]
-- [[Gary 051]]
-- [[Gary 052]]
-- [[Gary 053]]
-- [[Gary 054]]
-- [[Gary 055]]
-- [[Gary 056]]
-- [[Gary 057]]
-- [[Gary 058]]
-- [[Gary 059]]
-- [[Gary 060]]
-- [[Gary 061]]
-- [[Gary 062]]
-- [[Gary 063]]
-- [[Gary 064]]
-- [[Gary 065]]
-- [[Gary 066]]
-- [[Gary 067]]
-- [[Gary 068]]
-- [[Gary 069]]
-- [[Gary 070]]
-- [[Gary 071]]
-- [[Gary 072]]
-- [[Gary 073]]
-- [[Gary 074]]
-- [[Gary 075]]
-- [[Gary 076]]
-- [[Gary 077]]
-- [[Gary 078]]
-- [[Gary 079]]
-- [[Gary 080]]
-- [[Gary 081]]
-- [[Gary 082]]
-- [[Gary 083]]
-- [[Gary 084]]
-- [[Gary 085]]
-- [[Gary 086]]
-- [[Gary 087]]
-- [[Gary 088]]
-- [[Gary 089]]
-- [[Gary 090]]
-- [[Gary 091]]
-- [[Gary 092]]
-- [[Gary 093]]
-- [[Gary 094]]
-- [[Gary 095]]
-- [[Gary 096]]
-- [[Gary 097]]
-- [[Gary 098]]
-- [[Gary 099]]
-- [[Gary 100]]
-- [[Gary 101]]
-- [[Gary 102]]
+# Vault 108 Island
+#island
+- Overseer: EliMCGG & Gary Prime
+- First Discovered: 5/22/2024
+- Region: Michigan
+- Export Item: Suede jacket
 
-test
+## Known Islanders:
+- [[Gary Prime]]
+- Gary 2 through 100
+
+## Notes: 
+*Where it all began.* 
+
+
+
+
+
+
+
+#hidden

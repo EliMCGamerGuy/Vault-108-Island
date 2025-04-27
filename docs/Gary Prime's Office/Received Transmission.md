@@ -1,3 +1,4 @@
+# Received Transmission
 #hidden
 <span style="color: gray;font-style: italic;">"One day, I received a transmission on the vault long-range radio. It was like...an echo. I got in touch with Honesty Island, and they said that they hadn't heard about that transmission for...years. I immediately sent the signal to be transcribed. I record everything that comes through that radio."</span>
 

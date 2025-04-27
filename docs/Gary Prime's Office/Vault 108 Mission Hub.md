@@ -1,3 +1,4 @@
+# Vault 108 Mission Hub
 #hidden 
 <span style="color: gray;font-style: italic;">(In an offshoot room from the apartments office, you see a dusty corkboard next to a desk. The light is out in the room, giving it a dark feel, lit only by a desk lamp to the side of the board, giving off a warm white glow. You can see that the board's title has been replaced. Peeking underneath the current name, you see a label reading "Missing Persons Board")</span>
 These are the Garys and honorary Vault citizens whose last known locations have been...
