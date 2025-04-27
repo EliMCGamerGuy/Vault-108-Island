@@ -1,3 +1,4 @@
+# index
 #hidden
 # Index of Gary
 - [[Gary Prime]]
