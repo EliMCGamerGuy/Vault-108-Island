@@ -14,6 +14,7 @@
 ## Unknown Islands
 - [[Bigback Island]]
 - [[Tokyo Island]]
+- [[hawk tuah Island]]
 
 ## Other
 - [[Streetpass Relay Island]] - Nobody ever gets on. Nobody ever gets off. The boats just pass slowly.
