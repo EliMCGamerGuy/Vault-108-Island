@@ -20,13 +20,11 @@ These are the names of the brave Garys and honorary Vault citizen who took the r
 
 ## Mission Objectives
 - Archive known last-seen data to preserve traveler legacies.
-- Preserve the names and family ties of those who-
-
-<span style="color: gray;font-style: italic;">(It's scratched away again.)</span>
+- Preserve the names and family ties of those who- <span style="color: gray;font-style: italic;">(The text is scratched away again.)</span>
 - See what no Gary has seen before!
 - Spread the word of Gary!
 
-### The Tinge of Real Hope
+## The Tinge of Real Hope
 - Soru, the main developer of NetPass, has shown interest in reviving SpotPass as well. This would allow Garys to send letters back to the Vault, and will allow us to much more closely monitor their paths. We await eagerly to see if Soru will, in deed, revive SpotPass.
 
 ---
