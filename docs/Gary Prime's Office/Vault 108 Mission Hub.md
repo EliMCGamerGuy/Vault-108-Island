@@ -22,7 +22,7 @@ These are the names of the brave Garys and honorary Vault citizen who took the r
 - Spread the word of Gary!
 
 ### The Tinge of Real Hope
-- Soru, the main (and really only) developer of NetPass, has shown interest in reviving SpotPass as well. This would allow Garys to send letters back to the Vault, and will allow us to much more closely monitor their paths. We await eagerly to see if Soru will, in deed, revive SpotPass.
+- Soru, the main developer of NetPass, has shown interest in reviving SpotPass as well. This would allow Garys to send letters back to the Vault, and will allow us to much more closely monitor their paths. We await eagerly to see if Soru will, in deed, revive SpotPass.
 
 ---
 
