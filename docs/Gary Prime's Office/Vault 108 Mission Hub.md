@@ -1,9 +1,13 @@
 # Vault 108 Mission Hub
 #hidden 
 <span style="color: gray;font-style: italic;">(In an offshoot room from the apartments office, you see a dusty corkboard next to a desk. The light is out in the room, giving it a dark feel, lit only by a desk lamp to the side of the board, giving off a warm white glow. You can see that the board's title has been replaced. Peeking underneath the current name, you see a label reading "Missing Persons Board")</span>
+
 These are the Garys and honorary Vault citizens whose last known locations have been...
+
 <span style="color: gray;font-style: italic;">(The text looks scratched away.)</span>
+
 These are the names of the brave Garys and honorary Vault citizen who took the responsibility to leave the nest, and go where no Gary has gone before:
+
 <span style="color: gray;font-style: italic;">(This note is obviously newer, less aged.)</span>
 
 ---
@@ -17,6 +21,7 @@ These are the names of the brave Garys and honorary Vault citizen who took the r
 ## Mission Objectives
 - Archive known last-seen data to preserve traveler legacies.
 - Preserve the names and family ties of those who-
+
 <span style="color: gray;font-style: italic;">(It's scratched away again.)</span>
 - See what no Gary has seen before!
 - Spread the word of Gary!
