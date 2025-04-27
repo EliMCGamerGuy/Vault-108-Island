@@ -1,6 +1,6 @@
 # hawk tuah Island
 #island
-- Overseer: Unknown, obviously immature.
+- Overseer: Unknown
 - First Discovered: 4/20/2025
 - Region: Australia
 - Export Item: Surfer T-shirt
