@@ -12,4 +12,4 @@
 *(Next to the desk on the wall is [[Vault 108 Mission Hub|a corkboard]].)*
 
 
-<span style="color: gray;font-style: italic;">(In a drawer of Gary Prime's desk, there's a photo of three Garys. They seem to be a family. The middle Gary is slightly smaller. There's sharpie on it saying "Don't forget them.")</span>
+<span style="color: gray;font-style: italic;">(In a drawer of Gary Prime's desk, there's a photo of three Garys. They seem to be a family. The middle Gary is slightly smaller. There's sharpie on it saying "Don't forget him.")</span>
